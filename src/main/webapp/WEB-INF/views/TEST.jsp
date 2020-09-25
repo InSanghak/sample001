@@ -14,5 +14,6 @@ TEST
 
 Merge Test Commit 1
 Merge Test Commit 2
+commit 3
 </body>
 </html>
