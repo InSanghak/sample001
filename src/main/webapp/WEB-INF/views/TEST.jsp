@@ -15,5 +15,7 @@ TEST
 Merge Test Commit 1
 
 New Test 2
+
+revert test 1
 </body>
 </html>
